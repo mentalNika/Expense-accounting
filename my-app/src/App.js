@@ -13,9 +13,7 @@ function App() {
   return (
     <div>
       <h1>React</h1>
-      <Costs
-        costs={costs}
-      />
+      <Costs costs={costs} />
     </div>
   );
 }
