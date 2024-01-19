@@ -17,6 +17,6 @@ const App = () => {
       <Costs costs={costs} />
     </div>
   );
-}
+};
 
 export default App;
