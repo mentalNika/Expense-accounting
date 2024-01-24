@@ -3,7 +3,7 @@ import Costs from "./components/Costs/Costs";
 import React, {useState} from "react";
 
 const INITIAL_COSTS = [
-  { id: 'c1', date: new Date(2021, 2, 12), description: "Холодильник", amount: 999.99 },
+  { id: 'c1', date: new Date(2020, 2, 12), description: "Холодильник", amount: 999.99 },
   {
     id: 'c2', date: new Date(2021, 11, 23),
     description: "Микроволновка",
